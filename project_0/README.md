@@ -3,9 +3,9 @@
 ## Оглавление  
 [1. Описание проекта](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Описание-проекта)\
 [2. Какой кейс решаем?](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем)\
-[4. Этапы работы над проектом](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)\
-[5. Результат](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Результат)\
-[6. Выводы](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Выводы)
+[3. Этапы работы над проектом](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)\
+[4. Результат](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Результат)
+
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
@@ -30,18 +30,14 @@
 
 
 ### Этапы работы над проектом  
-....
+1) Изучение базового решения задачи;
+2) Разработка нового алгоритма угадывания числа и оборачивание его в код;
+3) Оформление проекта на GitHub.
 
 :arrow_up:[к оглавлению](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
-....
-
-:arrow_up:[к оглавлению](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Оглавление)
-
-
-### Выводы:  
-....
+Среднее количество попыток при 1000 повторений вновь разработанного алгоритма равно 5. 
 
 :arrow_up:[к оглавлению](https://github.com/lysikovms/sf_data_science/tree/main/project_0/README.md#Оглавление)
